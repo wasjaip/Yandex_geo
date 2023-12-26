@@ -1,0 +1,346 @@
+query;name;region;country
+Смоленск;Smolensk;Smolensk Oblast;Russia
+Кемерово;Kemerovo;Kuzbass;Russia
+Бишкек;Bishkek;Bishkek;Kyrgyzstan
+Москва;Moscow;Moscow;Russia
+Алматы;Almaty;Almaty;Kazakhstan
+Оренбург;Orenburg;Orenburg Oblast;Russia
+Новосибирск;Novosibirsk;Novosibirsk Oblast;Russia
+Кострома;Kostroma;Kostroma Oblast;Russia
+Ёшкар-Ола;Yoshkar-Ola;Mariy-El Republic;Russia
+Йошкар-Ола;Yoshkar-Ola;Mariy-El Republic;Russia
+Минск;Minsk City;Minsk City;Belarus
+СПб;Saint Petersburg;St.-Petersburg;Russia
+С.-Петербург;Saint Petersburg;St.-Petersburg;Russia
+Санкт-Петербург;Saint Petersburg;St.-Petersburg;Russia
+Рязань;Ryazan’;Ryazan Oblast;Russia
+Екб;Yekaterinburg;Sverdlovsk Oblast;Russia
+Екатеринбург;Yekaterinburg;Sverdlovsk Oblast;Russia
+Н.Новгород;Nizhniy Novgorod;Nizhny Novgorod Oblast;Russia
+Ростов-на-Дону;Rostov-na-Donu;Rostov;Russia
+Барнаул;Barnaul;Altai Krai;Russia
+Нижний Новгород;Nizhniy Novgorod;Nizhny Novgorod Oblast;Russia
+Брест;Brest;Brest;Belarus
+Зеленоград;Zelenograd;Moscow;Russia
+Уфа;Ufa;Bashkortostan Republic;Russia
+Мытищи;Mytishchi;Moscow Oblast;Russia
+Томск;Tomsk;Tomsk Oblast;Russia
+Владимир;Vladimir;Vladimir Oblast;Russia
+Коломна;Kolomna;Moscow Oblast;Russia
+Ангарск;Angarsk;Irkutsk Oblast;Russia
+Балашиха;Balashikha;Moscow Oblast;Russia
+Красноярск;Krasnoyarsk;Krasnoyarsk Krai;Russia
+Остана;Astana;Astana;Kazakhstan
+Астана;Astana;Astana;Kazakhstan
+Ульяновск;Ulyanovsk;Ulyanovsk;Russia
+Астрахань;Astrakhan;Astrakhan Oblast;Russia
+Караганда;Karagandy;Karaganda;Kazakhstan
+Тюмень;Tyumen;Tyumen Oblast;Russia
+Орел;Orël;Oryol oblast;Russia
+Казань;Kazan;Tatarstan Republic;Russia
+Тольяти;Tolyatti;Samara Oblast;Russia
+Тольятти;Tolyatti;Samara Oblast;Russia
+Пенза;Penza;Penza Oblast;Russia
+Краснодар;Krasnodar;Krasnodar Krai;Russia
+Грозный;Groznyy;Chechnya;Russia
+Островцы;Ostrovtsy;Moscow Oblast;Russia
+Сочи;Sochi;Krasnodar Krai;Russia
+Усть-Каменногорск;Ust-Kamenogorsk;East Kazakhstan;Kazakhstan
+Усть-Каменогорск;Ust-Kamenogorsk;East Kazakhstan;Kazakhstan
+Чебоксары;Cheboksary;Chuvashia;Russia
+Курган;Kurgan;Kurgan Oblast;Russia
+Самара;Samara;Samara Oblast;Russia
+Белгород;Belgorod;Belgorod Oblast;Russia
+Воронеж;Voronezh;Voronezh Oblast;Russia
+Пермь;Perm;Perm Krai;Russia
+Солегорск;Salihorsk;Minsk;Belarus
+Солигорск;Salihorsk;Minsk;Belarus
+Барановичи;Baranovichi;Brest;Belarus
+Набережные Челны;Naberezhnyye Chelny;Tatarstan Republic;Russia
+Хобаровск;Khabarovsk;Khabarovsk;Russia
+Хабаровск;Khabarovsk;Khabarovsk;Russia
+Иваново;Ivanovo;Ivanovo Oblast;Russia
+Улан-Удэ;Ulan-Ude;Buryatiya Republic;Russia
+Иркутск;Irkutsk;Irkutsk Oblast;Russia
+Ираславль;Yaroslavl;Yaroslavl Oblast;Russia
+Ярославль;Yaroslavl;Yaroslavl Oblast;Russia
+Новакузнецк;Novokuznetsk;Kuzbass;Russia
+Новокузнецк;Novokuznetsk;Kuzbass;Russia
+Влодевасток;Vladivostok;Primorye;Russia
+Владивосток;Vladivostok;Primorye;Russia
+Саратов;Saratov;Saratov Oblast;Russia
+Павловск;Pavlovsk;St.-Petersburg;Russia
+Кустанай;Kostanay;Qostanay;Kazakhstan
+Костанай;Kostanay;Qostanay;Kazakhstan
+Челябинск;Chelyabinsk;Chelyabinsk;Russia
+Махачкала;Makhachkala;Dagestan;Russia
+Аксай;Aksay;Rostov;Russia
+Ижевск;Izhevsk;Udmurtiya Republic;Russia
+Тверь;Tver;Tver Oblast;Russia
+Назрань;Nazran’;Ingushetiya Republic;Russia
+Химки;Khimki;Moscow Oblast;Russia
+Чита;Chita;Zabaykalskiy (Transbaikal) Kray;Russia
+Раменское;Ramenskoye;Moscow Oblast;Russia
+Якутск;Yakutsk;Sakha;Russia
+Уральск;Oral;Batys Qazaqstan;Kazakhstan
+Адлер;Adler;Krasnodar Krai;Russia
+Каленинград;Kaliningrad;Kaliningrad Oblast;Russia
+Калининград;Kaliningrad;Kaliningrad Oblast;Russia
+Ставрополь;Stavropol’;Stavropol Kray;Russia
+Вологда;Vologda;Vologda Oblast;Russia
+Курск;Kursk;Kursk Oblast;Russia
+Белград;Belgrade;Central Serbia;Serbia
+Сербия;Serbia;Serbia;Serbia
+Борисоглебск;Borisoglebsk;Voronezh Oblast;Russia
+Липецк;Lipetsk;Lipetsk Oblast;Russia
+Киров;Kirov;Kirov Oblast;Russia
+Одинцово;Odintsovo;Moscow Oblast;Russia
+Армения;Armenia;Armenia;Armenia
+Кзылорда;Kyzylorda;Qyzylorda;Kazakhstan
+Кызылорда;Kyzylorda;Qyzylorda;Kazakhstan
+Атырау;Atyraū;Atyraū;Kazakhstan
+Миасс;Miass;Chelyabinsk;Russia
+Батайск;Bataysk;Rostov;Russia
+Актюбинск;Aktobe;Aqtöbe;Kazakhstan
+Актобе;Aktobe;Aqtöbe;Kazakhstan
+Сыктывкар;Syktyvkar;Komi;Russia
+Самарканд;Temirtau;Karaganda;Kazakhstan
+Калуга;Kaluga;Kaluga Oblast;Russia
+Пушкино;Pushkino;Moscow Oblast;Russia
+Волгоград;Volgograd;Volgograd Oblast;Russia
+Омск;Omsk;Omsk Oblast;Russia
+Саранск;Saransk;Mordoviya Republic;Russia
+Жуковский;Zhukovsky;Moscow Oblast;Russia
+Тула;Tula;Tula Oblast;Russia
+Новоросийск;Novorossiysk;Krasnodar Krai;Russia
+Новороссийск;Novorossiysk;Krasnodar Krai;Russia
+Тамбов;Tambov;Tambov Oblast;Russia
+Брянск;Bryansk;Bryansk Oblast;Russia
+Архангельск;Arkhangel’sk;Arkhangelskaya;Russia
+Благовещенск;Blagoveshchensk;Amur Oblast;Russia
+Джанкой;Zhanibek;Batys Qazaqstan;Kazakhstan
+Шымкент;Shymkent;Shymkent;Kazakhstan
+Тбилиси;Tbilisi;T'bilisi;Georgia
+Гродно;Hrodna;Grodnenskaya;Belarus
+Домодедово;Domodedovo;Moscow Oblast;Russia
+Ивантеевка;Ivanteyevka;Moscow Oblast;Russia
+Пятигорск;Pyatigorsk;Stavropol Kray;Russia
+Белокуриха;Belokurikha;Altai Krai;Russia
+Уссурийск;Ussuriysk;Primorye;Russia
+Павлодар;Pavlodar Region;Pavlodar Region;Kazakhstan
+Петропавловск;Petropavl;North Kazakhstan;Kazakhstan
+Бийск;Biysk;Altai Krai;Russia
+Красногорск;Krasnogorsk;Moscow Oblast;Russia
+Псков;Pskov;Pskov Oblast;Russia
+Великий Новгород;Velikiy Novgorod;Novgorod Oblast;Russia
+Дзержинский;Dzerzhinsky;Moscow Oblast;Russia
+Кокшетау;Kokshetau;Aqmola;Kazakhstan
+Стерлитамак;Sterlitamak;Bashkortostan Republic;Russia
+Витебск;Vitebsk;Vitebsk;Belarus
+Касумкент;Kasumkent;Dagestan;Russia
+Красногвардейское;Krasnogvardeyskoye;Stavropol Kray;Russia
+Биробиджан;Birobidzhan;Jewish Autonomous Oblast;Russia
+Щелково;Shchyolkovo;Moscow Oblast;Russia
+Лида;Lida;Grodnenskaya;Belarus
+Петрозаводск;Petrozavodsk;Karelia;Russia
+Магадан;Magadan;Magadan Oblast;Russia
+Энгельс;Engels;Saratov Oblast;Russia
+Димитровград;Dimitrovgrad;Ulyanovsk;Russia
+Чебаркуль;Chebarkul’;Chelyabinsk;Russia
+Котельники;Kotel’niki;Moscow Oblast;Russia
+Анапа;Anapa;Krasnodar Krai;Russia
+Лобня;Lobnya;Moscow Oblast;Russia
+Королев;Korolev;Moscow Oblast;Russia
+Подольск;Podolsk;Moscow Oblast;Russia
+Обниннск;Obninsk;Kaluga Oblast;Russia
+Обнинск;Obninsk;Kaluga Oblast;Russia
+Дзержинск;Dzerzhinsk;Nizhny Novgorod Oblast;Russia
+Могилев;Mahilyow;Mogilev;Belarus
+Каспийск;Kaspiysk;Dagestan;Russia
+Броницы;Bronnitsy;Moscow Oblast;Russia
+Бронницы;Bronnitsy;Moscow Oblast;Russia
+Черкеск;Cherkessk;Karachayevo-Cherkesiya Republic;Russia
+Черкесск;Cherkessk;Karachayevo-Cherkesiya Republic;Russia
+Батуми;Batumi;Achara;Georgia
+Мурманск;Murmansk;Murmansk;Russia
+Северодвинск;Severodvinsk;Arkhangelskaya;Russia
+Усть-Лабинск;Ust’-Labinsk;Krasnodar Krai;Russia
+Новая Адыгея;Novaya Adygeya;Adygeya Republic;Russia
+Златоуст;Zlatoust;Chelyabinsk;Russia
+Видное;Vidnoye;Moscow Oblast;Russia
+Тараз;Taraz;Zhambyl;Kazakhstan
+Березники;Berezniki;Perm Krai;Russia
+Арзамас;Arzamas;Nizhny Novgorod Oblast;Russia
+Дербент;Derbent;Dagestan;Russia
+Актау;Shevchenko;Mangghystaū;Kazakhstan
+Южно-Сахалинск;Yuzhno-Sakhalinsk;Sakhalin Oblast;Russia
+Щекино;Shchëkino;Tula Oblast;Russia
+Люберцы;Lyubertsy;Moscow Oblast;Russia
+Электросталь;Elektrostal’;Moscow Oblast;Russia
+Сергиев Посад;Sergiyev Posad;Moscow Oblast;Russia
+Семей;Semey;Abai Region;Kazakhstan
+Ханты-Мансийск;Khanty-Mansiysk;Khanty-Mansia;Russia
+Краснокамск;Krasnokamsk;Perm Krai;Russia
+Кыштым;Kyshtym;Chelyabinsk;Russia
+Волжский;Volzhsky;Volgograd Oblast;Russia
+Муравленко;Muravlenko;Yamalo-Nenets;Russia
+Новый Уренгой;Novyy Urengoy;Yamalo-Nenets;Russia
+Старый Оскол;Staryy Oskol;Belgorod Oblast;Russia
+Мегион;Megion;Khanty-Mansia;Russia
+Братск;Bratsk;Irkutsk Oblast;Russia
+Заполярный;Zapolyarnyy;Murmansk;Russia
+Тобольск;Tobolsk;Tyumen Oblast;Russia
+Невиномыск;Nevinnomyssk;Stavropol Kray;Russia
+Невинномысск;Nevinnomyssk;Stavropol Kray;Russia
+Норильск;Norilsk;Krasnoyarsk Krai;Russia
+Нижневартовск;Nizhnevartovsk;Khanty-Mansia;Russia
+Дмитров;Dmitrov;Moscow Oblast;Russia
+Ноябрьск;Noyabrsk;Yamalo-Nenets;Russia
+Новочеркасск;Novocherkassk;Rostov;Russia
+Ош;Osh;Osh;Kyrgyzstan
+Первоуральск;Pervouralsk;Sverdlovsk Oblast;Russia
+Арсеньев;Arsen’yev;Primorye;Russia
+Череповецк;Cherepovets;Vologda Oblast;Russia
+Череповец;Cherepovets;Vologda Oblast;Russia
+Нижнекамск;Nizhnekamsk;Tatarstan Republic;Russia
+Бобруйск;Babruysk;Mogilev;Belarus
+Па́вловский Поса́д;Pavlovskiy Posad;Moscow Oblast;Russia
+Владикавказ;Vladikavkaz;North Ossetia–Alania;Russia
+Елабуга;Yelabuga;Tatarstan Republic;Russia
+Серпухов;Serpukhov;Moscow Oblast;Russia
+Сургут;Surgut;Khanty-Mansia;Russia
+Электрогорск;Elektrogorsk;Moscow Oblast;Russia
+Щербинка;Shcherbinka;Moscow;Russia
+Конаково;Konakovo;Tver Oblast;Russia
+Шуя;Shuya;Ivanovo Oblast;Russia
+Таганрог;Taganrog;Rostov;Russia
+Каракол;Karakol;Issyk-Kul;Kyrgyzstan
+Чистополь;Chistopol’;Tatarstan Republic;Russia
+Новоалтайск;Novoaltaysk;Altai Krai;Russia
+Магнитогорск;Magnitogorsk;Chelyabinsk;Russia
+Шахты;Shakhty;Rostov;Russia
+Колпино;Kolpino;St.-Petersburg;Russia
+Кисловодск;Kislovodsk;Stavropol Kray;Russia
+Комсомольск-на-Амуре;Komsomolsk-on-Amur;Khabarovsk;Russia
+Волгодонск;Volgodonsk;Rostov;Russia
+Долгопрудный;Dolgoprudnyy;Moscow Oblast;Russia
+Менделеевск;Mendeleyevsk;Tatarstan Republic;Russia
+Полоцк;Polatsk;Vitebsk;Belarus
+Майкоп;Maykop;Adygeya Republic;Russia
+Рыбинск;Rybinsk;Yaroslavl Oblast;Russia
+Новокуйбышевск;Novokuybyshevsk;Samara Oblast;Russia
+Орск;Orsk;Orenburg Oblast;Russia
+Муром;Murom;Vladimir Oblast;Russia
+Фрязино;Fryazino;Moscow Oblast;Russia
+Дубна;Dubna;Moscow Oblast;Russia
+Гомель;Homyel';Gomel Oblast;Belarus
+Ахалцихе;Akhaltsikhe;Samtskhe-Javakheti;Georgia
+Кутаиси;Kutaisi;Imereti;Georgia
+Виловатово;Vilovatovo;Mariy-El Republic;Russia
+Гори;Gori;Shida Kartli;Georgia
+Клин;Klin;Moscow Oblast;Russia
+Славянск-на-Кубани;Slavyansk-na-Kubani;Krasnodar Krai;Russia
+Октябрьский;Oktyabr’skiy;Moscow Oblast;Russia
+Ессентуки;Yessentuki;Stavropol Kray;Russia
+Солнечногорск;Solnechnogorsk;Moscow Oblast;Russia
+Верхняя Пышма;Verkhnyaya Pyshma;Sverdlovsk Oblast;Russia
+Ногинск;Noginsk;Moscow Oblast;Russia
+Чехов;Chekhov;Moscow Oblast;Russia
+Александров;Aleksandrov;Vladimir Oblast;Russia
+Талдыкурган;Taldykorgan;Jetisu Region;Kazakhstan
+Талдыкорган;Taldykorgan;Jetisu Region;Kazakhstan
+Орехово-Зуево;Orekhovo-Zuyevo;Moscow Oblast;Russia
+Нальчик;Nalchik;Kabardino-Balkariya Republic;Russia
+Троицк;Troitsk;Moscow;Russia
+Выкса;Vyksa;Nizhny Novgorod Oblast;Russia
+Всеволожск;Vsevolozhsk;Leningradskaya Oblast';Russia
+Тосно;Tosno;Leningradskaya Oblast';Russia
+Алексин;Aleksin;Tula Oblast;Russia
+Тара;Tara;Omsk Oblast;Russia
+Асбест;Asbest;Sverdlovsk Oblast;Russia
+Находка;Nakhodka;Primorye;Russia
+Троицкая;Troitskaya;Ingushetiya Republic;Russia
+Крымск;Krymsk;Krasnodar Krai;Russia
+Кирово-Чепецк;Kirovo-Chepetsk;Kirov Oblast;Russia
+Белорецк;Beloretsk;Bashkortostan Republic;Russia
+Нерюнгри;Neryungri;Sakha;Russia
+Нахабино;Nakhabino;Moscow Oblast;Russia
+Реутов;Reutov;Moscow Oblast;Russia
+Михайловск;Mikhaylovsk;Sverdlovsk Oblast;Russia
+Кропоткин;Kropotkin;Krasnodar Krai;Russia
+Альметьевск;Al’met’yevsk;Tatarstan Republic;Russia
+Климовск;Klimovsk;Moscow Oblast;Russia
+Истра;Istra;Moscow Oblast;Russia
+Бердск;Berdsk;Novosibirsk Oblast;Russia
+Петропавловск-Камчатский;Petropavlovsk-Kamchatsky;Kamchatka;Russia
+Новочебоксарск;Novocheboksarsk;Chuvashia;Russia
+Абакан;Abakan;Khakasiya Republic;Russia
+Артем;Artëm;Primorye;Russia
+Кстово;Kstovo;Nizhny Novgorod Oblast;Russia
+Ковров;Kovrov;Vladimir Oblast;Russia
+Мостовской;Mostovskoy;Krasnodar Krai;Russia
+Лабинск;Labinsk;Krasnodar Krai;Russia
+Нефтеюганск;Nefteyugansk;Khanty-Mansia;Russia
+Белебей;Belebey;Bashkortostan Republic;Russia
+Нефтекамск;Neftekamsk;Bashkortostan Republic;Russia
+Томилино;Tomilino;Moscow Oblast;Russia
+Риддер;Ridder;East Kazakhstan;Kazakhstan
+Армавир;Armavir;Krasnodar Krai;Russia
+Ейск;Yeysk;Krasnodar Krai;Russia
+Геленджик;Gelendzhik;Krasnodar Krai;Russia
+Тимашевск;Timashyovsk;Krasnodar Krai;Russia
+Усолье-Сибирское;Usol’ye-Sibirskoye;Irkutsk Oblast;Russia
+Черемхово;Cheremkhovo;Irkutsk Oblast;Russia
+Саянск;Sayansk;Irkutsk Oblast;Russia
+Балахна;Novaya Balakhna;Nizhny Novgorod Oblast;Russia
+Ишимбай;Ishimbay;Bashkortostan Republic;Russia
+Наро-Фоминск;Naro-Fominsk;Moscow Oblast;Russia
+Степногорск;Stepnogorsk;Aqmola;Kazakhstan
+Салават;Salavat;Bashkortostan Republic;Russia
+Родники;Rodniki;Ivanovo Oblast;Russia
+Заволжье;Zavolzh’ye;Nizhny Novgorod Oblast;Russia
+Обь;Ob’;Novosibirsk Oblast;Russia
+Фурманов;Furmanov;Ivanovo Oblast;Russia
+Сарапул;Sarapul;Udmurtiya Republic;Russia
+Каменск-Уральский;Kamensk-Ural’skiy;Sverdlovsk Oblast;Russia
+Воскресенск;Voskresensk;Moscow Oblast;Russia
+Воткинск;Votkinsk;Udmurtiya Republic;Russia
+Новотитаровская;Novotitarovskaya;Krasnodar Krai;Russia
+Зеленодольск;Zelenodolsk;Tatarstan Republic;Russia
+Саров;Sarov;Nizhny Novgorod Oblast;Russia
+Арамиль;Aramil;Sverdlovsk Oblast;Russia
+Горно-Алтайск;Gorno-Altaysk;Altai;Russia
+Нефтегорск;Neftegorsk;Samara Oblast;Russia
+Усть-Кут;Ust’-Kut;Irkutsk Oblast;Russia
+Дрожжино;Drozhzhino;Moscow Oblast;Russia
+Прокопьевск;Prokop’yevsk;Kuzbass;Russia
+Чайковский;Chaykovskiy;Perm Krai;Russia
+Елец;Yelets;Lipetsk Oblast;Russia
+Железнодорожный;Zheleznodorozhnyy;Moscow Oblast;Russia
+Крекшино;Krekshino;Moscow Oblast;Russia
+Кокошкино;Kokoshkino;Moscow;Russia
+Лисаковск;Lisakovsk;Qostanay;Kazakhstan
+Кагалым;Kogalym;Khanty-Mansia;Russia
+Когалым;Kogalym;Khanty-Mansia;Russia
+Черниховск;Chernyakhovsk;Kaliningrad Oblast;Russia
+Черняховск;Chernyakhovsk;Kaliningrad Oblast;Russia
+Элиста;Elista;Kalmykiya Republic;Russia
+Линево;Linëvo;Novosibirsk Oblast;Russia
+Сальск;Sal’sk;Rostov;Russia
+Новомосковск;Novomoskovsk;Tula Oblast;Russia
+Рудный;Rudnyy;Qostanay;Kazakhstan
+Луховицы;Lukhovitsy;Moscow Oblast;Russia
+Котлас;Kotlas;Arkhangelskaya;Russia
+Светлоград;Svetlograd;Stavropol Kray;Russia
+Краснотуринск;Krasnoturinsk;Sverdlovsk Oblast;Russia
+Краснотурьинск;Krasnoturinsk;Sverdlovsk Oblast;Russia
+Житикара;Zhitikara;Qostanay;Kazakhstan
+Черноголовка;Chernogolovka;Moscow Oblast;Russia
+Салехард;Salekhard;Yamalo-Nenets;Russia
+Кызыл;Kyzyl;Republic of Tyva;Russia
+Советская Гавань;Sovetskaya Gavan’;Khabarovsk;Russia
+Отеген-Батыр;Otegen Batyra;Almaty;Kazakhstan
+Тамань;Taman’;Krasnodar Krai;Russia
+Ачинск;Achinsk;Krasnoyarsk Krai;Russia
+Трудовое;Trudovoye;Primorye;Russia
+Московский;Moskovskiy;Moscow;Russia

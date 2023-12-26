@@ -19,15 +19,14 @@
 - Методы для добавления новых географических названий.
 
 ## Результат проекта
-- Jupiter Notebook с описанием проекта, исследованием и методами решения.
-- Python-скрипт с классом или функцией для интеграции в систему клиента.
+- [База PostgreSQL 15, развернута online на севрвере 2 CPU, 2 ГБ RAM, 40 ГБ NVMe](https://vps.sweb.ru/dbaas)
 - [Модель на huggingface, обучена на 8 эпохах и полном датафрейме всех наименований](https://huggingface.co/wasjaip/LaBSE_geonames_v1)
 - [Архив эмбедингов для общего датафрейма](https://github.com/wasjaip/Yandex_geo/blob/main/work/emb.rar)
 - [Класс](https://github.com/wasjaip/Yandex_geo/blob/main/work/geo_mod.py)
 - [Тестовый датасет](https://github.com/wasjaip/Yandex_geo/blob/main/work/geo_test.csv)
 - [Тетрадка для дополнительного обучения и проверки эффективности](https://github.com/wasjaip/Yandex_geo/blob/main/work/test_psgl.ipynb)
 - [Тетрадка для встройки](https://github.com/wasjaip/Yandex_geo/blob/main/work/user_psgl.ipynb)
-- 
+
 
 ## Используемые данные
 - Таблицы с geonames (admin1CodesASCII, alternateNamesV2, cities15000, countryInfo и другие).

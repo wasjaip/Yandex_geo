@@ -26,3 +26,4 @@ GeoNames - это географическая база данных, котор
 
 ## Дополнительные материалы 
 [Подготовка универсальных географических данных](https://github.com/wasjaip/Yandex_geo/blob/main/geo-analysisv1.ipynb)
+[начальный тестовый вариант](https://github.com/wasjaip/Yandex_geo/tree/main/temp)

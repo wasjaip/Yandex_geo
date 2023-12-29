@@ -45,7 +45,7 @@ class geo():
         DATABASE = {
             'drivername': 'postgresql',
             'username': 'wasjaip',
-            'password': 'qz4bdl63Q1977!',
+            'password': '',
             'host': '77.222.36.33',
             'port': '19679',
             'database': 'wasjaip'

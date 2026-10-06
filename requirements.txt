@@ -1,0 +1,8 @@
+pandas
+numpy
+torch
+SQLAlchemy
+psycopg2-binary
+sentence-transformers
+scipy
+scikit-learn
